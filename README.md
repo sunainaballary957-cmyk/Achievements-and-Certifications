@@ -1,5 +1,4 @@
-# Achievements-and-Certifications
-Professional-Certifications
+
 # Achievements and Certifications
 
 ## Hackathons
