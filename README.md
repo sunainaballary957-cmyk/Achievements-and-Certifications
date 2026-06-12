@@ -1,7 +1,7 @@
 
 # Achievements and Certifications
 
-## Hackathons
+## Hackathons.
 
 ### Code Battle 2k25 – National Level Hackathon
 
