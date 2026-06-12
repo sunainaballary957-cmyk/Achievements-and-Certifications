@@ -1,5 +1,12 @@
 
 # Achievements and Certifications
+## Resume
+
+- Software Development Resume
+- Open to Internship Opportunities
+- Computer Science Engineering Student (CGPA 9.12)
+
+Resume available in the Resume folder.
 
 ## Hackathons.
 
@@ -20,4 +27,8 @@ Completed training on Hashgraph technology, distributed ledger systems, and bloc
 ### Hashgraph Developer Course (2025)
 
 Advanced learning in decentralized applications, distributed systems, and Web3 technologies.
+## IBM SkillsBuild
+
+### Make Agentic AI Work for You
+Completed IBM SkillsBuild's learning program focused on AI agents, intelligent workflows, and practical applications of agentic AI systems.
 
