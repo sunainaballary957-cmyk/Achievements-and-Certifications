@@ -36,3 +36,7 @@ Completed IBM SkillsBuild's learning program focused on AI agents, intelligent w
  ### Introduction to Artificial Intelligence
    - Infosys Springboard
    - June 2026
+
+ ### Programming using Java
+   - Infosys Springboard
+   - June 2026
