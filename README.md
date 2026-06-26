@@ -41,3 +41,13 @@ Completed IBM SkillsBuild's learning program focused on AI agents, intelligent w
    - Infosys Springboard
    - June 2026
 ### ✅ Customer Engagement Fundamentals – IBM SkillsBuild (June 2026)
+## Cisco Networking Academy
+
+### ✅ Python Essentials 1 (June 2026)
+
+Skills:
+• Python Programming
+• Functions
+• Data Structures
+• File Handling
+• Problem Solving
