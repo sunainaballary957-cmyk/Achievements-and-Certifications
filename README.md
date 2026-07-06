@@ -50,4 +50,4 @@ Skills:
 • Functions
 • Data Structures
 • File Handling
-• Problem Solving
+• Problem Solving ...
