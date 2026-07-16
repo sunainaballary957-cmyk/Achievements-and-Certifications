@@ -51,3 +51,22 @@ Skills:
 • Data Structures
 • File Handling
 • Problem Solving ...
+
+### Kaggle – Intro to Programming
+
+Successfully completed Intro to Programming offered by Kaggle Learn.
+
+This course provided a solid foundation in programming concepts and strengthened my problem-solving skills through hands-on coding exercises.
+
+Skills Learned
+Programming Fundamentals
+Variables & Data Types
+Conditional Statements
+Loops
+Functions
+Basic Python Programming
+Problem Solving
+
+Issued By: Kaggle
+
+Completed: July 2026
