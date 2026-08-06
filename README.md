@@ -70,3 +70,8 @@ Problem Solving
 Issued By: Kaggle
 
 Completed: July 2026
+
+### 🏆 QuizOff 2026 – India's Biggest AI Quiz
+Participated in QuizOff 2026, organized by CampusCrew and hosted on Unstop.
+Competed in one of India's largest AI knowledge competitions involving 5,25,000+ participants from 48,500+ institutions across 35+ countries.
+Strengthened my understanding of Artificial Intelligence concepts and demonstrated my commitment to continuous learning and technical growth.
