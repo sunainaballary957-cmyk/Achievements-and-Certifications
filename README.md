@@ -75,3 +75,12 @@ Completed: July 2026
 Participated in QuizOff 2026, organized by CampusCrew and hosted on Unstop.
 Competed in one of India's largest AI knowledge competitions involving 5,25,000+ participants from 48,500+ institutions across 35+ countries.
 Strengthened my understanding of Artificial Intelligence concepts and demonstrated my commitment to continuous learning and technical growth.
+
+### 🏆 Hack Genesis 2026 — National-Level Hackathon
+
+### Participated in **Hack Genesis 2026**, a national-level hackathon organized by the **IEEE Student Branch of KLE Technological University, Dr. M.S. Sheshgiri Campus, Belagavi**.
+* Event held on **7th–8th August 2026**.
+* Strengthened skills in **problem-solving, teamwork, technical ideation, and collaborative development**.
+* **TCS** was the Knowledge Partner for the event.
+* Certificate ID: **STB50295**
+
