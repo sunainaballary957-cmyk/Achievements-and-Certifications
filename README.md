@@ -94,3 +94,22 @@ Successfully completed a **6-week online internship program in Web Development (
 **Issue Date:** 12 August 2026
 
 The internship provided practical exposure to web development and helped strengthen my front-end development skills through hands-on learning.
+
+# Pinnacle Labs – Data Science Internship
+
+This repository contains my work and projects completed during my
+Data Science Internship at Pinnacle Labs Pvt Ltd.
+
+## Internship
+- Role: Data Science Intern
+- Organization: Pinnacle Labs Pvt Ltd
+- Duration: August 2026 – September 2026
+
+## Focus Areas
+- Data Science
+- Software Development
+- Problem Solving
+- Practical Project Development
+
+## Projects
+Projects and tasks will be added as they are completed.
