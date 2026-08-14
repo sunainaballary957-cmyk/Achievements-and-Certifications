@@ -84,3 +84,13 @@ Strengthened my understanding of Artificial Intelligence concepts and demonstrat
 * **TCS** was the Knowledge Partner for the event.
 * Certificate ID: **STB50295**
 
+### 💼 Web Development Internship — BeeSkilled
+
+Successfully completed a **6-week online internship program in Web Development (HTML/CSS/JS)** at **BeeSkilled**.
+
+**Skills:** HTML, CSS, JavaScript
+**Duration:** 6 Weeks
+**Mode:** Online
+**Issue Date:** 12 August 2026
+
+The internship provided practical exposure to web development and helped strengthen my front-end development skills through hands-on learning.
