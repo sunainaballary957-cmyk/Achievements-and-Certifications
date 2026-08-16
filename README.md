@@ -113,3 +113,14 @@ Data Science Internship at Pinnacle Labs Pvt Ltd.
 
 ## Projects
 Projects and tasks will be added as they are completed.
+
+### 💼 DevOps Internship — CodeAlpha
+
+Selected for a **DevOps Internship at CodeAlpha**, scheduled from **20th August 2026 to 20th September 2026**.
+
+This internship provides an opportunity to gain hands-on exposure to DevOps concepts, strengthen technical skills, and apply knowledge through practical learning and project-based activities.
+
+**Organization:** CodeAlpha
+**Role:** DevOps Intern
+**Duration:** 20 August 2026 – 20 September 2026
+**Student ID:** CA/DF1/248317
