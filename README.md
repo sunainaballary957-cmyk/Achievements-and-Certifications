@@ -124,3 +124,18 @@ This internship provides an opportunity to gain hands-on exposure to DevOps conc
 **Role:** DevOps Intern
 **Duration:** 20 August 2026 – 20 September 2026
 **Student ID:** CA/DF1/248317
+# 🏆 Artificial Intelligence Fundamentals
+
+Successfully completed the **Artificial Intelligence Fundamentals** learning program from **IBM SkillsBuild**.
+
+📅 **Issued:** August 17, 2026
+🏢 **Issued by:** IBM SkillsBuild
+
+### 📚 Skills & Knowledge Gained
+
+* Artificial Intelligence Fundamentals
+* AI concepts and applications
+* Real-world applications of AI
+* Foundations for further AI/ML learning
+
+
