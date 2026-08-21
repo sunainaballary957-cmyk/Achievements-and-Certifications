@@ -138,7 +138,7 @@ Successfully completed the **Artificial Intelligence Fundamentals** learning pro
 * Real-world applications of AI
 * Foundations for further AI/ML learning
 
-### Thrilled to share that I’ve been selected for the QSpiders CampusConnect Free Internship Training Program!*
+### 🎉 Thrilled to share that I’ve been selected for the QSpiders CampusConnect Free Internship Training Program!*
 
 This is a great opportunity for me to strengthen my technical skills, gain practical industry exposure, and enhance my knowledge through hands-on training in software development.
 
