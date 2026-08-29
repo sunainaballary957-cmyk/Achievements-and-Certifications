@@ -144,6 +144,9 @@ This is a great opportunity for me to strengthen my technical skills, gain pract
 
 I’m grateful for this opportunity and excited to learn, grow, and build meaningful experience throughout the program. 🚀
 
+
+### skillnexis-flutter-internship
+This repository contains my work and learning outcomes from my 6-week Online Internship in Mobile App Development (Flutter) at Skill Nexis. It showcases my learning, practical tasks, projects, and experience gained during the internship.
 A special thanks to our respected Sir for his constant guidance, encouragement, and support throughout this journey. 🙏
 
 Looking forward to this new learning experience and the opportunities ahead!
